@@ -1,0 +1,4 @@
+delete from combined_mental_and_happiness 
+where theyear= 2020;
+delete from combined_mental_and_happiness 
+where theyear= 2021;
