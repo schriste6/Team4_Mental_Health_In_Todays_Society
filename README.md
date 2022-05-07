@@ -16,7 +16,7 @@
 
 ## First Segment: Sketch It Out:
 - <b>Topic:</b> Mental health in today’s Society
-- <b>Reason for selected topic:</b> Mental health is on the rise and for the last two years with the pandemic happening, there has been a noticeable uptick in mental health issues around the world because of these isolations and social distancing related the COVID-19 pandemic.
+- <b>Reason for selected topic:</b> Mental health is on the rise and for the last two years with the pandemic happening, there has been a noticeable uptick in mental health issues around the world because of these isolations and social distancing related the COVID-19 pandemic, we wanted to compare peoples happiness prior to COVID.
 - <b>Description of source data:</b> 
     - Title: World Happiness Report 2015-2022
         - Data Set: output.csv
