@@ -19,11 +19,11 @@
 - <b>Reason for selected topic:</b> Mental health is on the rise and for the last two years with the pandemic happening, there has been a noticeable uptick in mental health issues around the world because of these isolations and social distancing related the COVID-19 pandemic, we wanted to compare peoples happiness prior to COVID.
 - <b>Description of source data:</b> 
     - Title: World Happiness Report 2015-2022
-        - Data Set: output.csv
+        - Data Set: [Happniness_record.csv](https://github.com/schriste6/Team4_Mental_Health_In_Todays_Society/blob/Mary-Uhlir/Datasets/Happniness_record.csv)
         - Dataset Description: This is a csv file with 314 rows and 13 columns. The World Happiness Report is a publication of the United Nations Sustainable Development Solutions Network. It contains articles and rankings of national happiness, based on respondent ratings of their own lives, which the report also correlates with various (quality of) life factors. As of March 2022, Finland had been ranked the happiest country in the world five times in a row.
         - Categories: Country, Region, happiness Rank, Happiness score, Standard error, Economy(GDP per Capita), Family, Health(life expectancy), Freedom, Trust (Government Corruption), generosity, Dystopia Residual, year
     - Title: Prevalence of mental health disorders in men vs. women
-        - Data set: share-with-mental-health-males-vs-females.csv
+        - Data set: [share-with-mental-health-males-vs-females.csv](https://github.com/schriste6/Team4_Mental_Health_In_Todays_Society/blob/Mary-Uhlir/Datasets/share-with-mental-health-males-vs-females.csv)
         - Dataset Description: This is a csv file with 56,396 rows and 7 columns. Share of males versus females with any mental health or development disability disorder, not including alcohol and drug use disorders.
         - Categories: Entity(country), Country Code, Year, Prevalence - Mental disorders - Sex: Male - Age: Age-standardized (Percent), Prevalence - Mental disorders - Sex: Female - Age: Age-standardized (Percent), Population (historical estimates), Continent
 - <b>Questions we hope to answer with the data:</b>
